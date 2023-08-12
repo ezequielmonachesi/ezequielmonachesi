@@ -6,6 +6,7 @@ Me considero capaz, pro-activo y responsable tanto en el trabajo como en el estu
 
 Aprendo rápidamente, puedo decir que soy versátil a la hora de adquirir nuevos conocimientos adaptándome a nuevos desafíos! 😊
 
+Un poco más sobre mí:
 - 🔭 Acutalmente trabajo en Teleperformance Call Center.
 - 🌱 Terminé el cursado de Full Stack Mern, en espera del certificado.
 - 👯 Realicé proyectos grupales usando git, github utilizando pull request.
