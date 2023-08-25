@@ -8,5 +8,5 @@ Aprendo rápidamente, puedo decir que soy versátil a la hora de adquirir nuevos
 
 Un poco más sobre mí:
 - 🔭 Acutalmente trabajo en Teleperformance Call Center.
-- 🌱 Terminé el cursado de Full Stack Mern, en espera del certificado.
-- 👯 Realicé proyectos grupales usando git, github utilizando pull request.
+- 🌱 Terminé el cursado de Full Stack Mern.
+- 👯 Realicé proyectos grupales.
